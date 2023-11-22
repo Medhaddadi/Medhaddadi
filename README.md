@@ -1,3 +1,4 @@
+![logo](https://github.com/Medhaddadi/Medhaddadi/blob/main/1679610332110.jpeg)
 <h1 align="center">Hi 👋, I'm Mohamed EL HADDADI</h1>
 <h3 align="center">A passionate Software Engineering student</h3>
 
