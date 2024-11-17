@@ -1,6 +1,6 @@
 ![logo](https://github.com/Medhaddadi/Medhaddadi/blob/main/1679610332110.jpeg)
 <h1 align="center">Hi 👋, I'm Mohamed EL HADDADI</h1>
-<h3 align="center">A passionate Software Engineering student</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medhaddadi&label=Profile%20views&color=0e75b6&style=flat" alt="medhaddadi" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **moahmed.el.haddadi.dosi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ucchKFX7k_28VS5Ni9fgbsz9w9yYDpsp/view?usp=sharing](https://drive.google.com/file/d/1ucchKFX7k_28VS5Ni9fgbsz9w9yYDpsp/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1Ddrcan_Se_aUwu3CXGToh18rkMRzthR9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
